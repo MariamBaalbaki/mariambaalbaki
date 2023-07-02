@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mariam Baalbaki</h1>
+- A Lebanese International University student **MIS Major**
+
 - 👨‍💻 All of my codes are available at [https://github.com/MariamBaalbaki/foundations-cs-python](https://github.com/MariamBaalbaki/foundations-cs-python)
 
 - ⚡ Fun fact **"I'm Funny"**
