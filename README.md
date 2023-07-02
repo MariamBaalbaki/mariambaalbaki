@@ -8,7 +8,9 @@
 
 *👨‍💻 All of my codes are available at [https://github.com/MariamBaalbaki/foundations-cs-python](https://github.com/MariamBaalbaki/foundations-cs-python)
 
-*⚡ Fun fact **"I'm Funny"**
+*⚡ Fun fact "On average, people read 10% slower from a screen than from paper."
+
+* Gmail : mariambb2001@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
