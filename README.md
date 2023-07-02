@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mariam Baalbaki</h1>
 - 👨‍💻 All of my codes are available at [https://github.com/MariamBaalbaki/foundations-cs-python](https://github.com/MariamBaalbaki/foundations-cs-python)
 
-<h3 align="left" alt="clinkdin profile "  src="https://www.linkedin.com/in/mariam-baalbaki-051ba4240> h3>
+<h3 align="left" alt="clinkdin profile "  <src="https://www.linkedin.com/in/mariam-baalbaki-051ba4240>  </h3>
 <p align="left">
 </p>
 <img align="right" alt="coding" width="400" src="https://github.com/Palaksharma23/Palaksharma23>
