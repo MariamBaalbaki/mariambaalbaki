@@ -9,7 +9,7 @@
 
 *👨‍💻 All of my codes are available at [https://github.com/MariamBaalbaki/foundations-cs-python](https://github.com/MariamBaalbaki/foundations-cs-python)
 
-<h1>*⚡ Fun fact  </h1><h1><b>"On average, people read 10% slower from a screen than from paper."</h1>
+<p>*⚡ Fun fact  </p><p><b>"On average, people read 10% slower from a screen than from paper."</p>
 
 *Gmail: mariambb2001@gmail.com
 
